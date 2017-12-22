@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Redlin</string>
+    <string name="part2">Part2</string>
+    <string name="part1">Part1</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="images">Images</string>
+    <string name="we_would_need_contact_permission_to_store_contact_data_press_the_button_to_start">We would need Contact permission to store contact data. Press the button to start.</string>
+</resources>
